@@ -1,0 +1,5 @@
+name: adaptive-tutor-env
+description: RL environment for adaptive tutoring using student simulation
+version: 0.1.0
+
+entrypoint: server.app:app
