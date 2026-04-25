@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+transformers
+torch
+requests
+matplotlib
+unsloth
+datasets
+trl
