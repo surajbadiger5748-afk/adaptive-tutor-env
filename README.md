@@ -132,10 +132,9 @@ Our environment enables AI systems to **learn how to teach**, not just respond.
   https://colab.research.google.com/drive/1C1NjA3I4lEkyihhdw5o6K9MkUxNkpkzh?usp=sharing
 
 * 🔗 GitHub Repository:
-  **[ADD YOUR GITHUB LINK HERE]**
+  https://github.com/surajbadiger5748-afk/adaptive-tutor-env
 
-* 🔗 Demo Video:
-  **[ADD YOUR VIDEO LINK HERE]**
+
 
 ---
 
