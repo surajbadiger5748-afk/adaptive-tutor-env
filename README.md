@@ -157,6 +157,17 @@ https://colab.research.google.com/drive/1wVb7GryF0O549ni1cAnOEfjfjzrncYCE?usp=sh
 
 ---
 
+📝 Blog (Detailed Writeup)
+
+🔗 https://github.com/surajbadiger5748-afk/adaptive-tutor-env/blob/main/blog.md
+
+👉 Contains:
+
+Full training process
+RL explanation
+Model details
+Results & evaluation
+
 ## ⚙️ Tech Stack
 
 * FastAPI (Environment API)
